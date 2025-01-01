@@ -1,7 +1,7 @@
 # FSO-UNB
 Repositório criado para a matéria de Fundamentos de Sistemas Operacionais da Universidade de Brasília no semestre 2024.2
 
-# FAC-UNB-2024.1
+# FSO-UNB-2024.2
 
 * Matéria: Fundamentos de Sistemas Operacionais.
 * Professor: DANIEL SUNDFELD LIMA.
