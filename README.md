@@ -15,3 +15,8 @@ Repositório criado para a matéria de Fundamentos de Sistemas Operacionais da U
 * C1 - [Timed Shell](https://moj.naquadah.com.br/contests/fga_fso_2024_02_t01_trabalho1/fso-timedshell.pdf)
 * D1 - [Distribuição de carga de Trabalho](https://moj.naquadah.com.br/contests/fga_fso_2024_02_t01_trabalho1/fso-pthreads-mutex.pdf)
 
+## Trabalho 2
+* A1 - [Escalonador FCFS](https://moj.naquadah.com.br/contests/sundfeld_fso_2024_01_t01_trabalho2/fso-escalonador-fcfs.pdf)
+* B1 - [Substitui Paginas FIFO](https://moj.naquadah.com.br/contests/sundfeld_fso_2024_01_t01_trabalho2/fso-substituipaginas-fifo.pdf)
+* C1 - [Substitui Paginas LRU](https://moj.naquadah.com.br/contests/sundfeld_fso_2024_01_t01_trabalho2/fso-substituipaginas-lru.pdf)
+
